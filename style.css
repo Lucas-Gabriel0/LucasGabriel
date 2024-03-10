@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #000;
+    background-color: #000000;
     height: 100vh;
 }
 
@@ -262,6 +262,9 @@ section#sobre .flex {
     transition: .2s;
 }
 
+.btn-social  :hover{
+    background-color: azure;
+}
 
 
 
